@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TC_logo2020.webp",TCTelevision
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-sTTabyLeGpuEjc6hkeH6s)/dm/3/x7wijay/d/live-0.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png",Ecuavisa
+https://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png",Teleamazonas
+https://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
